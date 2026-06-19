@@ -3,82 +3,66 @@
 <h3 align="center">Data Analyst | Data Engineer | Data Scientist | Big Data Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harith-irfan-0a0451299">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+🎓 JPA Scholar • ⭐ 4× Dean's List Awardee • 🎖️ ROTU Army Cadet Officer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Bachelor of Computer Science (Hons.) Big Data at Universiti Teknologi MARA (UiTM)
+I am a Bachelor of Computer Science (Hons.) Big Data student at Universiti Teknologi MARA (UiTM), passionate about transforming data into actionable insights through analytics, machine learning, and engineering.
 
-🏅 Jabatan Perkhidmatan Awam (JPA) Scholar
-
-⭐ 4× Dean's List Awardee (CGPA 3.62)
-
-🎖️ Reserve Officer Training Unit (ROTU) Army Cadet Officer
-
-📊 Aspiring Data Analyst, Data Engineer & Data Scientist
-
-🌱 Currently exploring Machine Learning, Data Engineering, Artificial Intelligence, and Big Data Analytics
-
-💡 Passionate about transforming data into actionable insights through analytics, science, and engineering
+- 📊 Aspiring Data Analyst, Data Engineer & Data Scientist
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📈 Skilled in Data Analytics and Data Visualization
+- 🌱 Currently expanding my knowledge in Data Engineering and Cloud Technologies
+- 🎯 Seeking internship opportunities (Sept 2026 – Dec 2026)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### Languages
+Python • SQL • Java • Kotlin
 
 ### Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Data Analytics • Machine Learning • Data Visualization • Tableau • Power BI
 
-### AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+### Development Tools
+Git • GitHub • Firebase • FastAPI
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchoiCode-Lab&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchoiCode-Lab&layout=compact)
+### Soft Skills
+Leadership • Teamwork • Problem Solving • Communication • Decision Making
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 JPA Scholar
+- 🥇 JPA Scholar
 - ⭐ Dean's List Awardee (4 Semesters)
 - 🎖️ ROTU Army Cadet Officer
-- 🏓 Table Tennis Champion
 - 🏃 National-Level Athletics Champion
 - 🧭 Project Director, National Orienteering Challenge Championship
 
 ---
 
-## 📫 Contact Me
+## 📂 Featured Projects
 
-📧 Email: **mhirfan2003@gmail.com**
+### FinSight AI
+AI-powered personal finance application that analyzes spending behaviour, predicts future expenses, and provides intelligent financial insights.
 
-🔗 LinkedIn: **https://www.linkedin.com/in/harith-irfan-0a0451299**
+### Early Prediction of Student Dropout
+Explainable Machine Learning model for identifying at-risk students and supporting early intervention.
 
-💻 Portfolio & Projects: **https://github.com/AchoiCode-Lab**
+### VR History Learning Museum
+Virtual Reality learning environment developed using Unity to improve student engagement in History education.
 
 ---
 
-⭐ Always eager to learn, collaborate, and contribute to impactful data-driven solutions.
+## 🌐 Connect With Me
+
+🔗 LinkedIn: www.linkedin.com/in/harith-irfan-0a0451299
+
+📧 Email: mhirfan2003@gmail.com
+
+💻 GitHub: github.com/AchoiCode-Lab
