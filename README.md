@@ -97,11 +97,11 @@
 
 ### Certifications
 
-- 📜 Data Analyst in Python – DataCamp (2025)
-- 📜 Data Scientist in Python – DataCamp (2025)
-- 📜 Associate Data Scientist in Python – DataCamp (2025)
-- 📜 Associate Data Engineer in SQL – DataCamp (2025)
-- 📜 Associate Data Analyst in SQL – DataCamp (2025)
+-  Data Analyst in Python – DataCamp 
+-  Data Scientist in Python – DataCamp 
+-  Associate Data Scientist in Python – DataCamp 
+-  Associate Data Engineer in SQL – DataCamp 
+-  Associate Data Analyst in SQL – DataCamp 
 
 ### Achievements
 
