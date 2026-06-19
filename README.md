@@ -1,68 +1,104 @@
 <h1 align="center">Hi 👋, I'm Muhammad Harith Irfan Yahya</h1>
 
-<h3 align="center">Data Analyst | Data Engineer | Data Scientist | Big Data Student</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=JPA+Scholar;Big+Data+Student+at+UiTM;Aspiring+Data+Analyst;Aspiring+Data+Engineer;Aspiring+Data+Scientist;Machine+Learning+Enthusiast" />
+</p>
 
 <p align="center">
-🎓 JPA Scholar • ⭐ 4× Dean's List Awardee • 🎖️ ROTU Army Cadet Officer
+  <a href="https://www.linkedin.com/in/harith-irfan-0a0451299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:mhirfan2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=AchoiCode-Lab&style=for-the-badge">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a Bachelor of Computer Science (Hons.) Big Data student at Universiti Teknologi MARA (UiTM), passionate about transforming data into actionable insights through analytics, machine learning, and engineering.
+🎓 Bachelor of Computer Science (Hons.) Big Data @ Universiti Teknologi MARA (UiTM)
 
-- 📊 Aspiring Data Analyst, Data Engineer & Data Scientist
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📈 Skilled in Data Analytics and Data Visualization
-- 🌱 Currently expanding my knowledge in Data Engineering and Cloud Technologies
-- 🎯 Seeking internship opportunities (Sept 2026 – Dec 2026)
+🏅 Jabatan Perkhidmatan Awam (JPA) Scholar
 
----
+⭐ Dean's List Awardee (4 Semesters)
 
-## 🛠️ Technical Skills
+🎖️ Reserve Officer Training Unit (ROTU) Army Cadet Officer
 
-### Languages
-Python • SQL • Java • Kotlin
+📊 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Data Engineering
 
-### Data & Analytics
-Data Analytics • Machine Learning • Data Visualization • Tableau • Power BI
-
-### Development Tools
-Git • GitHub • Firebase • FastAPI
-
-### Soft Skills
-Leadership • Teamwork • Problem Solving • Communication • Decision Making
+🎯 Seeking Internship Opportunities (September 2026 – December 2026)
 
 ---
 
-## 🏆 Achievements
+# 💻 Tech Stack
 
-- 🥇 JPA Scholar
-- ⭐ Dean's List Awardee (4 Semesters)
-- 🎖️ ROTU Army Cadet Officer
-- 🏃 National-Level Athletics Champion
-- 🧭 Project Director, National Orienteering Challenge Championship
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,git,github" />
+</p>
+
+### Data Analytics & AI
+
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge">
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,fastapi,androidstudio" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 🏆 Achievements
 
-### FinSight AI
-AI-powered personal finance application that analyzes spending behaviour, predicts future expenses, and provides intelligent financial insights.
+🥇 JPA Scholar
 
-### Early Prediction of Student Dropout
-Explainable Machine Learning model for identifying at-risk students and supporting early intervention.
+⭐ Dean's List Awardee (4 Semesters)
 
-### VR History Learning Museum
-Virtual Reality learning environment developed using Unity to improve student engagement in History education.
+🎖️ ROTU Army Cadet Officer
+
+🏃 National-Level Athletics Champion
+
+🧭 Project Director, National Orienteering Challenge Championship
 
 ---
 
-## 🌐 Connect With Me
+# 📂 Featured Projects
 
-🔗 LinkedIn: www.linkedin.com/in/harith-irfan-0a0451299
+### 🤖 FinSight AI
+AI-powered personal finance application that analyzes spending behavior, predicts future expenses, and provides intelligent financial insights.
 
-📧 Email: mhirfan2003@gmail.com
+### 🎓 Early Prediction of Student Dropout
+Explainable Machine Learning model for identifying at-risk students and supporting early intervention in education.
 
-💻 GitHub: github.com/AchoiCode-Lab
+### 🥽 VR History Learning Museum
+Virtual Reality learning environment developed using Unity to improve student engagement and historical understanding.
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/harith-irfan-0a0451299
+
+📧 Email:
+mhirfan2003@gmail.com
+
+💻 GitHub:
+https://github.com/AchoiCode-Lab
+
+---
+
+<p align="center">
+  <i>"Transforming data into actionable insights through analytics, science, and engineering."</i>
+</p>
