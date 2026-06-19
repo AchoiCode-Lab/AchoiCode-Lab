@@ -24,8 +24,8 @@
 
 - 🎓 Bachelor of Computer Science (Hons.) Big Data, Universiti Teknologi MARA (UiTM)
 - 🏅 Jabatan Perkhidmatan Awam (JPA) Scholar
-- ⭐ Dean's List Awardee (4 Semesters)
-- 🎖️ Reserve Officer Training Unit (ROTU) Army Cadet Officer
+- ⭐ Dean's List Awardee for 4 Semesters (CGPA 3.62)
+- 🎖️ Best Cadet, Reserve Officer Training Unit (ROTU), UiTM
 - 📊 Aspiring Data Analyst, Data Engineer & Data Scientist
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Data Engineering
 - 🌱 Currently expanding my knowledge in Machine Learning, Data Engineering, and Cloud Technologies
@@ -93,13 +93,25 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
+
+### Certifications
+
+- 📜 Data Analyst in Python – DataCamp (2025)
+- 📜 Data Scientist in Python – DataCamp (2025)
+- 📜 Associate Data Scientist in Python – DataCamp (2025)
+- 📜 Associate Data Engineer in SQL – DataCamp (2025)
+- 📜 Associate Data Analyst in SQL – DataCamp (2025)
+
+### Achievements
 
 - 🥇 JPA Scholar
 - ⭐ Dean's List Awardee (4 Semesters)
+- 🎖️ Listed as Best Cadet, Reserve Officer Training Unit (ROTU), UiTM
 - 🎖️ ROTU Army Cadet Officer
 - 🏃 National-Level Athletics Champion
 - 🧭 Project Director, National Orienteering Challenge Championship
+- 🏆 Second Runner-Up, UiTM Hackathon Workshop Competition (2026)
 
 ---
 
