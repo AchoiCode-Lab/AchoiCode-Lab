@@ -117,11 +117,9 @@
 
 ## 🌐 Connect With Me
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/harith-irfan-0a0451299
+💼 **LinkedIn** : https://www.linkedin.com/in/harith-irfan-0a0451299
 
-📧 **Email**  
-mhirfan2003@gmail.com
+📧 **Email** : mhirfan2003@gmail.com
 
 💻 **GitHub** : https://github.com/AchoiCode-Lab
 
