@@ -123,8 +123,7 @@ https://www.linkedin.com/in/harith-irfan-0a0451299
 📧 **Email**  
 mhirfan2003@gmail.com
 
-💻 **GitHub**  
-https://github.com/AchoiCode-Lab
+💻 **GitHub** : https://github.com/AchoiCode-Lab
 
 ---
 
